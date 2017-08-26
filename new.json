@@ -1,0 +1,6 @@
+{
+    "homepage": "https://github.com/divanvisagie/new",
+    "url": "https://github.com/divanvisagie/new/releases/download/v0.0.4/new_0.0.4_windows_amd64.zip",
+    "version": "0.0.4",
+    "bin": "new.exe"
+}
