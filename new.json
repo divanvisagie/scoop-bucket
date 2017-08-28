@@ -1,6 +1,6 @@
 {
     "homepage": "https://github.com/divanvisagie/new",
-    "url": "https://github.com/divanvisagie/new/releases/download/v0.0.5/new_0.0.5_windows_amd64.zip",
-    "version": "0.0.5",
+    "url": "https://github.com/divanvisagie/new/releases/download/v0.0.6/new_0.0.6_windows_amd64.zip",
+    "version": "0.0.6",
     "bin": "new.exe"
 }
