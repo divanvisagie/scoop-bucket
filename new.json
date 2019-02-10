@@ -1,20 +1,21 @@
 {
-    "version": "0.0.11",
+    "version": "0.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/divanvisagie/new/releases/download/v0.0.11/new_0.0.11_windows_386.zip",
+            "url": "https://github.com/divanvisagie/new/releases/download/v0.1.0/new_0.1.0_windows_386.zip",
             "bin": [
                 "new.exe"
             ],
-            "hash": "20a72f759401f0b2926b167043de7d84a68f0c82f32babb858d45e30ec90200d"
+            "hash": "7b1221c6f6e315802ef3385c8b0808fce94889569f40d5d7148b75f8d14b5334"
         },
         "64bit": {
-            "url": "https://github.com/divanvisagie/new/releases/download/v0.0.11/new_0.0.11_windows_amd64.zip",
+            "url": "https://github.com/divanvisagie/new/releases/download/v0.1.0/new_0.1.0_windows_amd64.zip",
             "bin": [
                 "new.exe"
             ],
-            "hash": "0fc9c0264aeaedfeb4c18cabe2e9b7606cd69e537f8a6e306b5a9ca8b5542f1b"
+            "hash": "a88970929cb3c5908db3e02014adaa20c2d7f3d415f92eea710876b7c590a760"
         }
     },
-    "homepage": "https://github.com/divanvisagie/new"
+    "homepage": "https://github.com/divanvisagie/new",
+    "description": "generate projects from git repositories"
 }
