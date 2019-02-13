@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/divanvisagie/new/releases/download/v0.4.0/new_0.4.0_windows_386.zip",
+            "url": "https://github.com/divanvisagie/new/releases/download/v0.4.1/new_0.4.1_windows_386.zip",
             "bin": [
                 "new.exe"
             ],
-            "hash": "79ba88716e03a71fa252d8ccb366445f713bd274194b09c6a792600064d5150b"
+            "hash": "fccd934e3fed6e2c25c231791e1329647f4d8e67afc8a867d12b954b6c8245e0"
         },
         "64bit": {
-            "url": "https://github.com/divanvisagie/new/releases/download/v0.4.0/new_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/divanvisagie/new/releases/download/v0.4.1/new_0.4.1_windows_amd64.zip",
             "bin": [
                 "new.exe"
             ],
-            "hash": "2502db52ce50df0b1d63a53fd6ca66cc0b2835228c1721bc5e2c239d2e81009e"
+            "hash": "1178191c0f31fe202d4628df88a7d08f393f10aece20befde271794159783b39"
         }
     },
     "homepage": "https://github.com/divanvisagie/new",
